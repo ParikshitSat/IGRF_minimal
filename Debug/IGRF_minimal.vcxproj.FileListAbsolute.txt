@@ -1,0 +1,4 @@
+C:\Users\Naman\Desktop\Parikshit Codes\IGRF_minimal\IGRF_minimal\Debug\IGRF_minimal.exe
+C:\Users\Naman\Desktop\Parikshit Codes\IGRF_minimal\IGRF_minimal\Debug\IGRF_minimal.pdb
+C:\Users\Naman\Desktop\Parikshit Codes\IGRF_minimal\Debug\IGRF_minimal.exe
+C:\Users\Naman\Desktop\Parikshit Codes\IGRF_minimal\Debug\IGRF_minimal.pdb
